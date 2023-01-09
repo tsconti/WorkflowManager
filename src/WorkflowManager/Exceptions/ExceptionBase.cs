@@ -1,4 +1,4 @@
-﻿namespace WorkflowManager.Errors;
+﻿namespace WorkflowManager.Exceptions;
 
 public abstract class ExceptionBase : Exception
 {

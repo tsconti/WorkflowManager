@@ -1,4 +1,4 @@
-﻿namespace WorkflowManager.Errors;
+﻿namespace WorkflowManager.Exceptions;
 
 public class WorkflowRollbackStepException : ExceptionBase
 {

@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using WorkflowManager.Errors;
+using WorkflowManager.Exceptions;
 
 namespace WorkflowManager;
 
